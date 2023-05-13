@@ -1,0 +1,15 @@
+C:\Users\damla\Desktop\kutuphane_otomasyonuu\bin\Debug\kutuphane_otomasyonuu.exe.config
+C:\Users\damla\Desktop\kutuphane_otomasyonuu\bin\Debug\kutuphane_otomasyonuu.exe
+C:\Users\damla\Desktop\kutuphane_otomasyonuu\bin\Debug\kutuphane_otomasyonuu.pdb
+C:\Users\damla\Desktop\kutuphane_otomasyonuu\obj\Debug\kutuphane_otomasyonuu.csproj.AssemblyReference.cache
+C:\Users\damla\Desktop\kutuphane_otomasyonuu\obj\Debug\kutuphane_otomasyonuu.csproj.SuggestedBindingRedirects.cache
+C:\Users\damla\Desktop\kutuphane_otomasyonuu\obj\Debug\kutuphane_otomasyonuu.giris_sayfasi_1.resources
+C:\Users\damla\Desktop\kutuphane_otomasyonuu\obj\Debug\kutuphane_otomasyonuu.kayit_ol_sayfasi.resources
+C:\Users\damla\Desktop\kutuphane_otomasyonuu\obj\Debug\kutuphane_otomasyonuu.Properties.Resources.resources
+C:\Users\damla\Desktop\kutuphane_otomasyonuu\obj\Debug\kutuphane_otomasyonuu.csproj.GenerateResource.cache
+C:\Users\damla\Desktop\kutuphane_otomasyonuu\obj\Debug\kutuphane_otomasyonuu.csproj.CoreCompileInputs.cache
+C:\Users\damla\Desktop\kutuphane_otomasyonuu\obj\Debug\kutuphane_otomasyonuu.exe
+C:\Users\damla\Desktop\kutuphane_otomasyonuu\obj\Debug\kutuphane_otomasyonuu.pdb
+C:\Users\damla\Desktop\kutuphane_otomasyonuu\obj\Debug\kutuphane_otomasyonuu.anasayfa.resources
+C:\Users\damla\Desktop\kutuphane_otomasyonuu\obj\Debug\kutuphane_otomasyonuu.kullanici_anasayfa.resources
+C:\Users\damla\Desktop\kutuphane_otomasyonuu\obj\Debug\kutuphane_otomasyonuu.kullanici_anasayfa_2.resources
